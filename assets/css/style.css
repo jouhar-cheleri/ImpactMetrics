@@ -502,7 +502,7 @@ section {
 }
 
 .background-image-container {
-  background-image: url('../img/bg/Impact\ Assesment.jpeg'); /* Replace 'path/to/your/image.jpg' with the actual path to your image */
+  background-image: url('../img/bg/graph.png'); /* Replace 'path/to/your/image.jpg' with the actual path to your image */
   background-size: cover; /* This makes the image cover the entire container */
   background-position: center; /* Center the image within the container */
   background-repeat: no-repeat; /* Prevent the image from repeating */
