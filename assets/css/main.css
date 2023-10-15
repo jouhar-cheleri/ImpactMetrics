@@ -1274,30 +1274,32 @@ section {
 
 .cta .img {
   position: relative;
+  
 }
 
 .cta .img:before {
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(var(--color-white-rgb), 0.5);
+  /*background: rgba(var(--color-white-rgb), 0.5);*/
   border-radius: 15px;
-  transform: rotate(12deg);
+ /* transform: rotate(12deg);*/
 }
 
 .cta .img:after {
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(var(--color-white-rgb), 0.9);
+ /* background: rgba(var(--color-white-rgb), 0.9);*/
   border-radius: 15px;
-  transform: rotate(6deg);
+  /*transform: rotate(6deg);*/
 }
 
 .cta .img img {
   position: relative;
   z-index: 3;
   border-radius: 15px;
+  
 }
 
 /*--------------------------------------------------------------
